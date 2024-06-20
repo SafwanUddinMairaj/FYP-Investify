@@ -8,6 +8,5 @@ the gap between ambitious entrepreneurs and potential investors, offering a user
 interface and robust features to support both parties.
 
 Group Members:
-Safwan Uddin Mairaj
-Muhammad Faseeh
+Safwan Uddin Mairaj and Muhammad Faseeh
 
